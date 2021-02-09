@@ -1,4 +1,8 @@
-### Hi there 👋
+# 👋 *"So it is written, so it is done!"*
+
+I do a lot of different things. I hope you like what I do.
+
+discord: `almic#0001`
 
 <!--
 **almic/almic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
