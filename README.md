@@ -1,4 +1,4 @@
-# 👋 *"So it is written, so it is done!"*
+# *So it is written, so it is done*
 
 I do a lot of different things. I hope you like what I do.
 
