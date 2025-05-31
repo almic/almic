@@ -4,6 +4,9 @@ I do a lot of different things. I hope you like what I do.
 
 discord: `almictm`
 
+<img alt="almic's stats" src="https://github-readme-stats.vercel.app/api?username=almic&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" align="left" height="195" />
+<img alt="almic's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almic&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="195" />
+
 <!--
 **almic/almic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
